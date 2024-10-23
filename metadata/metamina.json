@@ -1,7 +1,11 @@
 {
-  "name": "LoveToCarmina",
-  "symbol": "LTC",
-  "uri": "https://raw.githubusercontent.com/Ishimii/Love_To_Carmina/main/logo/logo.png",
-  "seller_fee_basis_points": 500,
-  "creators": null
+  "name": "Molinillo",
+  "symbol": "MATO",
+  "description": "No puedo mas...",
+  "image": "https://raw.githubusercontent.com/Ishimii/Love_To_Carmina/main/logo/logo.png",
+  "extensions": {
+    "website": "https://www.google.com/search?q=osos+maduros&rlz=1C1FKPE_enES1131ES1131&oq=osos+maduros&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwNTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "discord": "https://discord.gg/3UW53BeYvU",
+    "telegram": "https://t.me/McLovinCoinn"
+  }
 }

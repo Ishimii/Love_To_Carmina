@@ -1,14 +1,7 @@
 {
-    "name": "LoveToCarmina",       // Nombre del token
-    "symbol": "LTC",               // Símbolo del token
-    "description": "Token for LoveToCarmina project", // Descripción opcional
-    "image": "https://raw.githubusercontent.com/Ishimii/Love_To_Carmina/main/logo/logo.png", // Enlace a una imagen representativa del token (normalmente un PNG o JPG)
-    "external_url": "https://example.com",    // (Opcional) Página web asociada
-    "telegram": "https://t.me/McLovinCoinn",
-    "attributes": [                           // (Opcional) Atributos adicionales
-      {
-        "trait_type": "Project",
-        "value": "LoveToCarmina"
-      }
-    ]
-  }  
+  "name": "LoveToCarmina",
+  "symbol": "LTC",
+  "uri": "https://raw.githubusercontent.com/Ishimii/Love_To_Carmina/main/logo/logo.png",
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
